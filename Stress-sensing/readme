@@ -1,0 +1,8 @@
+Run
+For training personal models
+chmod +x personal_run.sh
+bash personal_run.sh 
+
+For testing personal models
+chmod +x personal_test.sh
+bash personal_test.sh
