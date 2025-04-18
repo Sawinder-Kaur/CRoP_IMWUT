@@ -1,0 +1,60 @@
+cachetools==5.5.2
+certifi==2025.1.31
+chardet==4.0.0
+contourpy==1.3.2
+cycler==0.12.1
+filelock @ file:///home/conda/feedstock_root/build_artifacts/filelock_1733240801289/work
+fonttools==4.57.0
+fsspec @ file:///home/conda/feedstock_root/build_artifacts/fsspec_1734650190311/work
+gmpy2 @ file:///home/conda/feedstock_root/build_artifacts/gmpy2_1733462578645/work
+google-api-core==2.24.2
+google-api-python-client==2.167.0
+google-auth==2.39.0
+google-auth-httplib2==0.2.0
+googleapis-common-protos==1.70.0
+httplib2==0.22.0
+idna==2.10
+Jinja2 @ file:///home/conda/feedstock_root/build_artifacts/jinja2_1734823942230/work
+joblib==1.4.2
+kiwisolver==1.4.8
+MarkupSafe @ file:///home/conda/feedstock_root/build_artifacts/markupsafe_1733219938132/work
+matplotlib==3.10.1
+mpmath @ file:///home/conda/feedstock_root/build_artifacts/mpmath_1733302684489/work
+networkx @ file:///home/conda/feedstock_root/build_artifacts/networkx_1698504735452/work
+nngeometry==0.3
+numpy @ file:///home/conda/feedstock_root/build_artifacts/numpy_1739425573370/work/dist/numpy-2.2.3-cp310-cp310-linux_aarch64.whl#sha256=3a8807864c00262519a23281ac09fb43e9ccc0f94887277d216b3725bb59bd77
+oauth2client==4.1.3
+optree @ file:///home/conda/feedstock_root/build_artifacts/optree_1740912195167/work
+packaging==24.2
+pandas==2.2.3
+pillow @ file:///home/conda/feedstock_root/build_artifacts/pillow_1735930015276/work
+proto-plus==1.26.1
+protobuf==6.30.2
+psutil==7.0.0
+pyasn1==0.6.1
+pyasn1_modules==0.4.2
+pybind11 @ file:///D:/bld/pybind11-split_1730237329882/work
+pybind11_global @ file:///home/conda/feedstock_root/build_artifacts/pybind11-split_1730237328107/work
+PyDrive==1.3.1
+PyHessian==0.1
+pyparsing==3.2.3
+python-dateutil==2.9.0.post0
+pytz==2025.1
+PyYAML==6.0.2
+requests==2.25.1
+rsa==4.9.1
+scikit-learn==1.6.1
+scipy==1.15.2
+seaborn==0.13.2
+six==1.17.0
+sympy @ file:///home/conda/feedstock_root/build_artifacts/sympy_1727529700862/work
+threadpoolctl==3.6.0
+torch @ file:///home/conda/feedstock_root/build_artifacts/libtorch_1741577077367/work
+torchattack==1.5.1
+torchattacks==3.5.1
+torchvision @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_torchvision_1739668764/work
+tqdm==4.67.1
+typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1733188668063/work
+tzdata==2025.1
+uritemplate==4.1.1
+urllib3==1.26.20
