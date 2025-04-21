@@ -5,3 +5,8 @@ This work introduces CRoP, a novel static personalization approach using an off-
 The folders corresponding to the four datasets: WIDAR, Extrasensory, Stress-sensing and PERCEPT-R, contain the model, code, and instructions to run the corresponing codes are provided. 
 
 The folder for runtime evaluations contain separate folders for runtime evaluation on different platforms.
+
+For details and queries contact:
+
+Sawinder Kaur <sakaur@syr.edu>
+
